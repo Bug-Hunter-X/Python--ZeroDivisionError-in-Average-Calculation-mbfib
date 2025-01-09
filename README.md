@@ -1,0 +1,1 @@
+This repository contains a simple Python function designed to calculate the average of a list of numbers.  The function includes error handling for empty lists, but not for cases where the denominator would be zero. This example highlights the importance of robust error handling, even for seemingly straightforward functions.
